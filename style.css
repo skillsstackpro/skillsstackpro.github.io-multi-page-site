@@ -136,7 +136,7 @@ form input[type="submit"] {
   border: none;
   cursor: pointer;
   font-weight: bold;
-  transition: background 0.3s ease, transform 0.2s ease;
+  transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 form input[type="submit"]:hover {
